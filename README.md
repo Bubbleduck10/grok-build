@@ -1,3 +1,20 @@
+# Grok Build — repurposed
+
+**PROMINENT NOTICE OF CHANGES** *(Apache-2.0 §4(b))*
+
+This is a fork of [Grok Build](https://github.com/xai-org/grok-build), SpaceXAI’s
+terminal coding agent. Changes made in this fork:
+
+- **Added [DESK.md](DESK.md)**, which repurposes the harness: instead of shipping
+  software, it operates a trading desk that has had its analysts, researchers,
+  research manager and risk management committee removed.
+- **Nothing was removed.** In particular, the approval prompts, confirmation
+  steps and security policy are untouched. See DESK.md for why.
+
+Everything below this line is upstream documentation, unmodified.
+
+---
+
 <div align="center">
 
 <h1>
